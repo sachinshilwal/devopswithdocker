@@ -1,3 +1,3 @@
 # devopswithdocker
-## Exercises for this wonderfull course:
+- Full course in here:
 https://devopswithdocker.com/getting-started
